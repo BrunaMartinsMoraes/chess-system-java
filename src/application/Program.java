@@ -45,7 +45,7 @@ public class Program {
                 System.out.println(e.getMessage());
                 sc.nextLine();
             }
-            catch (InputMismatchException e) {
+            catch (InputMismatchException e) {e2
                 System.out.println(e.getMessage());
                 sc.nextLine();
             }
